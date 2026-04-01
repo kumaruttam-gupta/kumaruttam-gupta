@@ -24,7 +24,8 @@
 ⚙️ Backend & Tools  
 - REST APIs  
 - Bash Scripting  
-- Linux  
+- Linux
+- Django 
 
  ☁️ DevOps & Cloud  
 - Docker 🐳  
